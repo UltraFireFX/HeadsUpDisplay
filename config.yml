@@ -1,0 +1,35 @@
+##
+## Type '$chat$' to insert a player's chat message!
+## Type $<variable name>$ to send the variable's value!
+##
+
+settings:
+  enabled: 'true'
+  server_name: 'A Bukkit server'
+  website_url: 'www.arcanepvp.enjin.com'
+  prefix: '[HeadsUpDisplay] '
+  suffix: ''
+
+hudList:
+  line1: '$chat$'
+  line2: '$chat$'
+  line3: '$chat$'
+  line3: '$chat$'
+  line4: '$chat$'
+  line5: '$chat$'
+  line6: '$chat$'
+  line7: '$chat$'
+  line8: '$chat$'
+  line9: '$chat$'
+  ## Above here is only seen if a player opens their chat!
+  line10: '+-----------------------------------------------------------------------'
+  line11: '| Welcome to $server_name$!'
+  line12: '| Balance: $money$'
+  line13: '| Make sure you read the rules!'
+  line14: '| Checkout our website at $website$!'
+  line15: '+-----------------------------------------------------------------------'
+  line16: '$chat$'
+  line17: '$chat$'
+  line18: '$chat$'
+  line19: '$chat$'
+  line20: '$chat$'

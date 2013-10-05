@@ -1,0 +1,17 @@
+name: HeadsUpDisplay
+main: me.ultrafirefx.HeadsUpDisplay.HeadsUpDisplay
+version: 0.5
+authors: UltraFireFX
+description: 'A HeadsUpDisplay for players on your server!'
+
+commands:
+  help:
+    description: Displays a help dialog
+  start:
+    description: Start displaying the HeadsUpDisplay!
+  stop:
+    description: Stop displaying the headsUpDisplay!
+  reload:
+    description: Reloads the config!
+  credits:
+    description: Shows the authors of HeadsUpDisplay!
